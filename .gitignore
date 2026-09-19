@@ -1,0 +1,7 @@
+# gerado pelo build (versão para publicar como Artifact)
+.artifact/
+
+# sistema
+.DS_Store
+Thumbs.db
+*~
